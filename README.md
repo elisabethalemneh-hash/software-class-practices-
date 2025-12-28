@@ -1,8 +1,8 @@
 This is an introduction to version control tools like git and github in software engineering class.git status
 # Software Class Practices
 
-This repository is part of our **Version Control Systems lab**.  
-It demonstrates how to use **Git and GitHub** for collaboration in a group project.
+This repository is part of our Version Control Systems lab.  
+It demonstrates how to use Git and GitHub for collaboration in a group project.
 
 ## Objectives
 - Practice setting up a Git repository
