@@ -1,4 +1,3 @@
-This is an introduction to version control tools like git and github in software engineering class.git status
 # Software Class Practices
 
 This repository is part of our **Version Control Systems lab**.  
@@ -11,13 +10,13 @@ It demonstrates how to use **Git and GitHub** for collaboration in a group proje
 - Push branches to GitHub and open Pull Requests
 - Collaborate as a team and merge contributions
 
-## Group Members(Section B)
+## Group Members
 - Hana Berhe
 - Elisabeth Alemneh
 - Hana Deslagn 
 - Hana Mekonnen
-- Kalkidan Asmamaw
-- kedir Lemecha
+- Kalkidan 
+- kedir
 
 ## Lab Steps Practiced
 1. Initialized repository with `git init`
@@ -27,5 +26,4 @@ It demonstrates how to use **Git and GitHub** for collaboration in a group proje
 5. Created branches with full names
 6. Opened Pull Requests and merged contributions
 7. Invited lecturer to review the repository
- 
  
