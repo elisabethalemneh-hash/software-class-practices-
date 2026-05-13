@@ -12,8 +12,8 @@ It demonstrates how to use Git and GitHub for collaboration in a group project.
 - Collaborate as a team and merge contributions
 
 ## Group Members(Section B)
-- Hana Berhe
 - Elisabeth Alemneh
+- Hana Berhe
 - Hana Deslagn 
 - Hana Mekonnen
 - Kalkidan Asmamaw
